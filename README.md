@@ -5,3 +5,4 @@ activate it
 install django within it 
 create django project
 create django app
+
